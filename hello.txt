@@ -7,3 +7,7 @@ hello
 thus is hello.txt`
 
 I am Green
+
+hello
+hi
+rehaul
